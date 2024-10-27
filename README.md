@@ -18,7 +18,7 @@ As a beginner in programming, I’m eager to apply my problem-solving skills and
 
 ## My Projects:
 
-Visit my [Project Page](projects.md) to check out my work!
+Visit my [Project Page](https://github.com/sumsingh11/Markdown-Portfolio/blob/main/projects.md) to check out my work!
 
 
 ## Where to reach me:
